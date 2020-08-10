@@ -2,7 +2,7 @@
 
 **git 과 github 기초와 간단한 협업 해보기**
 
-#### - [스터디 기획서](https://github.com/sejongsmarcle/2020_Summer_Study)
+#### - [스터디 기획서](https://github.com/sejongsmarcle/2020_Summer_Study/blob/master/Smarcle_2020_%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99%EC%8A%A4%ED%84%B0%EB%94%94_%EA%B8%B0%ED%9A%8D%EC%84%9C.pdf)
 #### - [예제코드](https://github.com/sejongsmarcle/2020_Summer_Study/blob/master/%EC%98%88%EC%A0%9C%EC%BD%94%EB%93%9C/%EC%98%88%EC%8B%9C.c)
 #### - [결과물](https://github.com/sejongsmarcle/2020_Summer_Study)
 
