@@ -43,6 +43,16 @@
 
 <hr>
 
+### 목표 
+
+메인 프로젝트 파일에 대한 것 
+ 
+
+![image](https://user-images.githubusercontent.com/53388557/89793081-610ff300-db60-11ea-8017-732ecb332dcc.png)
+
+
+<hr>
+
 ### 학습 링크 모음
 
 이 중에서 골라서 들으시며 학습하시면 되겠습니다.
