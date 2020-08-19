@@ -51,6 +51,14 @@
 
 <hr>
 
+
+### 참여 확인 방법
+
+- 깃허브 가입과 레포지토리, 프로필 생성 등등-> [여기 팔로우 해주시면 맞팔과 함께 참여 확인 해드립니다](https://github.com/GHooN99)
+-  github 레포지토리에 pull request 해보기-> [예시코드.c 의 TODOList 를 보면서 코드 채워넣고 PR 해보기](https://github.com/sejongsmarcle/2020_Summer_Study/blob/master/%EC%98%88%EC%A0%9C%EC%BD%94%EB%93%9C/%EC%98%88%EC%8B%9C.c)
+-  메인 프로젝트 파일 작성 시작 -> 메인프로젝트.md 생성하면 거기에다 작성 시작..
+- 스터디 리뷰 -> 구글 폼 생성 예정
+
 ### 목표 
 
 메인 프로젝트 파일에 대한 것 
