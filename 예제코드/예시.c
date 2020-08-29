@@ -7,6 +7,7 @@
 
 int add(int a, int b)
 {
+	return a + b;		// 김찬영 github @kochanha
 }
 
 
@@ -24,6 +25,8 @@ int main()
 	int a, b;
 
 	scanf("%d %d", &a, &b);
+	int sum = sum(a, b);
+	printf("sum : %d", sum);
 
 	/*
 	//TODO
