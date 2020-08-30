@@ -7,7 +7,7 @@
 
 int add(int a, int b)
 {
-	return a + b;	    	// 김찬영 github @kochanha
+	return a + b;	// 김찬영 github @kochanha Pull Request 추가
 }
 
 
